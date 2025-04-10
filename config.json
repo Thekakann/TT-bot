@@ -1,0 +1,23 @@
+{ 
+  "token": "MTM1OTgyOTA1ODE1MzYxMTMyNQ.Gmh_tD.B-JkCut_g8mUl2kVmvLG7S29aeuqVFczqbcTbY",
+  
+    "guilds": [
+      {
+        "guildId": "603293801221586947",
+        "modRoleId": "1359799909070667816",
+        "ticketCategoryName": "Tickets bot",
+        "ticketChannelId": "1359798470457819166",
+        "ticketMods": []
+
+      },
+      {
+        "guildId": "666482986098622479",
+        "modRoleId": "695751603004768468",
+        "ticketCategoryName": "Tickets",
+        "ticketChannelId": "1359908802589360400",
+        "ticketMods": []
+
+      }
+    ]
+  }
+  
